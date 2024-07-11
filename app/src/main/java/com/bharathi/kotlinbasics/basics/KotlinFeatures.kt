@@ -1,13 +1,11 @@
 package com.bharathi.kotlinbasics.basics
 
-import android.util.Log
 
 val TAG = "KotlinFeatures"
 
 fun main(){
     //concise Sample
     val consiceSample = ConciseSample(name = "Bharathi Priyanka", age = 27)
-    Log.d(TAG, "${consiceSample.age} and ${consiceSample.name}")
 
     //Null Safety
     var a:Int? = null

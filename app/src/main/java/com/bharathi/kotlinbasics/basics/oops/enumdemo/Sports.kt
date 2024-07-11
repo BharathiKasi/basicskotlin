@@ -1,6 +1,5 @@
 package com.bharathi.kotlinbasics.basics.oops.enumdemo
 
-import android.util.Log
 
 enum class Sports(val s: String) {
     CRICKET("BAT and BALL"),

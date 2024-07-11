@@ -1,6 +1,5 @@
 package com.bharathi.kotlinbasics.basics
 
-import java.util.ArrayList
 import kotlin.collections.ArrayList
 
 

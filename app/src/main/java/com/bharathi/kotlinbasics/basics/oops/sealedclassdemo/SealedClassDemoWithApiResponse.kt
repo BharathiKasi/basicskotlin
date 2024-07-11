@@ -1,6 +1,5 @@
 package com.bharathi.kotlinbasics.basics.oops.sealedclassdemo
 
-import org.json.JSONObject
 
 sealed class Resource {
     class Success(val json:Float) : Resource(){
